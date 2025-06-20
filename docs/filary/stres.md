@@ -6,7 +6,7 @@ Stres to naturalna reakcja organizmu na wyzwania lub zagrożenia. Choć często 
 
 - **Eustres** – pozytywny, krótkotrwały stres (np. przed egzaminem)
 - **Dystres** – długotrwały, szkodliwy stres (np. chroniczne napięcie)
-- Objawy stresu: bezsenność, drażliwość, bóle głowy, problemy z koncentracją
+- **Objawy stresu**: bezsenność, drażliwość, bóle głowy, problemy z koncentracją
 
 > 🧠 Ciekawostka: Krótkotrwały stres zwiększa wydajność pamięci, ale długotrwały może ją trwale pogorszyć.
 

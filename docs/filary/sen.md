@@ -4,11 +4,11 @@ Sen odpowiada nie tylko za odpoczynek, ale również za pamięć, odporność i 
 
 ## 🛌 Dlaczego sen jest ważny?
 
-- Konsolidacja pamięci (przenoszenie danych z krótkiej do długiej)
+- Konsolidacja pamięci (przenoszenie danych z krótkiej do długiej pamięci)
 - Odbudowa komórek i układu odpornościowego
 - Regulacja emocji (brak snu → większa reaktywność)
 
-> 💡 Ciekawostka: Osoba śpiąca mniej niż 6h przez 5 dni ma spowolnione reakcje jak po promil alkoholu.
+> 💡 Ciekawostka: Osoba śpiąca mniej niż 6h przez 5 dni ma spowolnione reakcje jak po promilu alkoholu.
 
 ## 📋 Higiena snu – zasady
 
@@ -21,8 +21,7 @@ Sen odpowiada nie tylko za odpoczynek, ale również za pamięć, odporność i 
 
 ## 🧮 Kalkulator snu
 
-> 🕒 [Zobacz ile cykli snu potrzebujesz – kalkulator](https://sleepyti.me/)  
-> Lub: dodajemy własny kalkulator snu w `przyklady/kalkulatory.md`
+> 🕒 [Zobacz ile cykli snu potrzebujesz – kalkulator](https://sleepyti.me/)
 
 ## 🎬 Inspiracje
 
