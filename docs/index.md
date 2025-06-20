@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Well-being 360° 🌿
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Witamy na stronie poświęconej holistycznemu podejściu do zdrowia psychicznego i fizycznego.  
+Naszym celem jest przedstawienie pięciu kluczowych filarów dobrostanu:
 
-## Commands
+- Stres i techniki jego redukcji
+- Jakość snu
+- Aktywność fizyczna
+- Zdrowe odżywianie
+- Nawyki wspierające codzienne funkcjonowanie
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Znajdziesz tu przystępnie podaną teorię, praktyczne przykłady oraz narzędzia, które pomogą Ci zadbać o siebie – bez presji i zbędnego moralizowania.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> „Dbaj o ciało. To jedyne miejsce, jakie masz do życia.” – Jim Rohn
