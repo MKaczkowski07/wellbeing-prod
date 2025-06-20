@@ -7,7 +7,7 @@ Projekt skierowany jest głównie do studentów i młodych dorosłych, którzy:
  - spędzają dużo czasu przy komputerze
  - odczuwają stres związany z nauką/pracą
  - chcą poprawić swoją jakość życia prostymi krokami
- - Struktura
+ - struktura
 
 Witryna została podzielona na:
  - część teoretyczną (wyjaśnienia naukowe, podstawy)
