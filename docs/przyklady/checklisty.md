@@ -5,7 +5,7 @@ Możesz je wydrukować, ustawić jako tapetę w telefonie lub po prostu przejrze
 
 ---
 
-## ✅ Poranna checklista „Zdrowy start”
+## 🌞 Poranna checklista „Zdrowy start”
 
 > Zacznij dzień uważnie, bez chaosu i scrollowania.
 
@@ -37,7 +37,7 @@ Możesz je wydrukować, ustawić jako tapetę w telefonie lub po prostu przejrze
 
 ---
 
-## 💡 Jak używać checklist?
+## 🤔 Jak używać checklist?
 
 - 📱 ustaw jako przypomnienie w telefonie
 - 🖨️ wydrukuj i przyklej na lodówkę
@@ -45,7 +45,7 @@ Możesz je wydrukować, ustawić jako tapetę w telefonie lub po prostu przejrze
 
 ---
 
-## 📥 Sugestie dla użytkownika
+## 💡 Sugestie dla użytkownika
 
 - Dodaj swoją własną checklistę (np. „Zadbany student”, „Weekend offline”)
 - Użyj kolorów i ikon, aby wyróżnić najważniejsze punkty
