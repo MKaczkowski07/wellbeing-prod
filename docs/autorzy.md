@@ -6,4 +6,4 @@ Autorzy projektu
 |  Gabriela Przybyła    |          współautorka              |
 
 
-Projekt został wykonany w duecie – każda osoba miała swój wkład techniczny i merytoryczny
+Projekt został wykonany w duecie – każda osoba miała swój wkład techniczny i merytoryczny.
