@@ -3,5 +3,5 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: indigo
-    accent: indigo
+    primary: light green
+    accent: green
