@@ -8,9 +8,7 @@ Poniżej znajdziesz dwa proste narzędzia, które pomogą Ci lepiej zrozumieć p
 
 **BMI (Body Mass Index)** to wskaźnik masy ciała obliczany według wzoru:
 
-\[
-\text{BMI} = \frac{\text{masa (kg)}}{\text{wzrost (m)}^2}
-\]
+BMI = masa ciała (w kg) / wzrost (w m)²
 
 | Wartość BMI | Interpretacja |
 |-------------|----------------|
