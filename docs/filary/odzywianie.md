@@ -12,7 +12,7 @@ Sposób, w jaki się odżywiamy, wpływa nie tylko na naszą sylwetkę, ale prze
 |--------|---------------------|
 | Regularność posiłków | stabilizuje poziom cukru, zmniejsza napady głodu |
 | Warzywa i owoce | źródło witamin, błonnika i antyoksydantów |
-| Nawodnienie | mózg to ~75% wody – nawet lekka odwodnienie = gorsza koncentracja |
+| Nawodnienie | mózg to ~75% wody – nawet lekkie odwodnienie = gorsza koncentracja |
 | Unikanie przetworzonych produktów | mniej soli, cukru, sztucznych dodatków |
 | Świadome jedzenie | jedz wolno, bez telefonu, zauważ smak i sytość |
 
