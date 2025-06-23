@@ -31,7 +31,8 @@ Możesz je wydrukować, ustawić jako tapetę w telefonie lub po prostu przejrze
 
 ## 🖨️ Do pobrania / wydruku
 
-📄 [Pobierz PDF – Zdrowy dzień (poranek + wieczór)](../zasoby/checklista-zdrowy-dzien.pdf)
+📄 [Pobierz PDF – Zdrowy dzień](checklista-zdrowy-dzien.pdf)
+
 
 > Jeśli chcesz, możesz samodzielnie modyfikować checklistę i stworzyć własną wersję (np. w Canvie, Wordzie, Google Docs)
 
