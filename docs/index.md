@@ -1,6 +1,6 @@
 # Strona Powitalna
 
-Witamy na stronie poświęconej holistycznemu podejściu do zdrowia psychicznego i fizycznego.  
+Witamy na stronie poświęconej wszechstronnemu podejściu do zdrowia psychicznego i fizycznego.  
 Naszym celem jest przedstawienie pięciu kluczowych filarów dobrostanu:
 
 - Stres i techniki jego redukcji
