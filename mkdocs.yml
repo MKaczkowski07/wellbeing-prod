@@ -1,7 +1,7 @@
-site_name: Well Being
+site_name: Well Being 360° 🌿
 theme:
   name: material
   palette:
     scheme: default
-    primary: indigo
-    accent: indigo
+    primary: light green
+    accent: green
