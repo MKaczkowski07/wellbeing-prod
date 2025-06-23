@@ -21,8 +21,8 @@ Tutaj znajdziesz cytaty, polecenia książek, aplikacje, filmy i podcasty, któr
 
 - [Why do we sleep? – Russell Foster | TED](https://www.ted.com/talks/russell_foster_why_do_we_sleep)
 - [James Clear: Atomic Habits | Talks at Google](https://www.youtube.com/watch?v=U_nzqnXWvSo)
-- [Jak działa stres? – Proste Nauki (YT)](https://www.youtube.com/watch?v=VN5HhP4h7pU)
-- [Dlaczego warto się ruszać? (YT)](https://www.youtube.com/watch?v=wV6jB47j8tY)
+- [Film edukacyjny - Dbaj o zdrowie całe życie!](https://www.youtube.com/watch?v=TOGwwp_D0gw)
+- [Zrób te małe zmiany w życiu, mają OGROMNY wpływ na zdrowie](https://www.youtube.com/watch?v=fYltRzc4Gfs)
 
 ---
 
