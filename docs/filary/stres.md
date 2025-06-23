@@ -19,7 +19,7 @@ Stres to naturalna reakcja organizmu na wyzwania lub zagrożenia. Choć często 
 | Progresywna relaksacja mięśni | Napinanie i rozluźnianie grup mięśni | 5–10 minut |
 | Pisanie dziennika | Wyrzucenie myśli na papier | codziennie, wieczorem |
 
-## 🔧 Ćwiczenie
+## 🌬️ Ćwiczenie oddechowe
 
 > Spróbuj wykonać ćwiczenie oddechowe 4–7–8 przez 3 minuty, a potem zanotuj, jak się czujesz.
 

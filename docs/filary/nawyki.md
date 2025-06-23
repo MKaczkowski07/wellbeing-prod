@@ -7,7 +7,7 @@ To one w dużej mierze decydują o naszym zdrowiu, energii i samopoczuciu.
 
 ---
 
-## 🔁 Jak działają nawyki?
+## 🧐 Jak działają nawyki?
 
 Nawyk składa się z trzech etapów:
 
@@ -32,7 +32,7 @@ Nawyk składa się z trzech etapów:
 
 ---
 
-## 🛠 Przykłady mikro-nawyków
+## 📜 Przykłady mikro-nawyków
 
 - Wypicie szklanki wody po przebudzeniu
 - 5 minut rozciągania przed snem
