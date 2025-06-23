@@ -1,7 +1,0 @@
-site_name: Well Being 360° 🌿
-theme:
-  name: material
-  palette:
-    scheme: default
-    primary: light green
-    accent: green
