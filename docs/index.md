@@ -1,4 +1,4 @@
-# Well-being 360° 🌿
+# Strona Powitalna
 
 Witamy na stronie poświęconej holistycznemu podejściu do zdrowia psychicznego i fizycznego.  
 Naszym celem jest przedstawienie pięciu kluczowych filarów dobrostanu:
